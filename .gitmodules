@@ -1,0 +1,3 @@
+[submodule "librustzcash"]
+	path = librustzcash
+	url = git@github.com:jeffgran/librustzcash.git

@@ -1,0 +1,5 @@
+module Librustzcash {
+    header "Librustzcash.h"
+    link "rustzcash"
+    export *
+}
